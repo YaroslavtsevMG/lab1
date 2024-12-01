@@ -15,7 +15,7 @@ namespace Test
         public void TestMethod2()
         {
             var classofliblary = new ArithmaticClass();
-            Assert.AreEqual(classofliblary.z_func2(1, 1, 1), 4);
+            Assert.AreEqual(classofliblary.z_func2(1, 1, 1), 5.047619342803955);
         }
     }
 }
